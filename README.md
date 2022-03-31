@@ -1,14 +1,14 @@
 # Selection_CIS
 Бот для игры в шашки.
 
-Чтобы запустить программму выполните из папки src команду:
+Чтобы запустить программму выполните:
 ```Shell
 $ cmake
 $ make
 $ ./MyMainProject
 ```
 
-Или
+Или из папки src команду
 ```Shell
 $ g++ -std=c++17 main.cpp -o main.exe && ./main.exe
 ```
