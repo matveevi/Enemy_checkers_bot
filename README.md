@@ -1,2 +1,8 @@
 # Selection_CIS
-enemy bot in checkers
+Бот для игры в шашки.
+
+Чтобы запустить программму выполните из папки src команду:
+g++ -std=c++17 main.cpp -o main.exe && ./main.exe
+
+
+Далее следуйте инструкции в консоли!
